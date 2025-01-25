@@ -1,4 +1,4 @@
-![Zepto]([URL-to-image](https://en.wikipedia.org/wiki/Zepto_%28company%29#/media/File:Zepto_Logo.svg)
+![Zepto](https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Zepto_Logo.svg/1200px-Zepto_Logo.svg.png)
 
 # 🚚 Zepto Delivery Time Estimation Project: Redefining Last-Mile Delivery with AI 🚚
 
